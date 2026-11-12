@@ -11,7 +11,7 @@
         / \
        |   |
 
-ET! is a simple personal expense tracking application.
+ET! is a simple personal **E**xpense **T**racking application.
 
 
 It's a simple exprense tracker that read CSV files from credit card statements, normalize it and impor it into a corherent SQL database to generate reports.
