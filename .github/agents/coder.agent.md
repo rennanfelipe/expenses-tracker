@@ -111,3 +111,5 @@ After implementation, provide:
 3. **Verification:** Commands executed and their results.
 4. **Testing handoff:** New or updated test scenarios that the Testing Agent should cover.
 5. **Limitations:** Remaining issues, assumptions, or incomplete work.
+6. **Unresolved ambiguities:** Any requirements that remain unclear or require further clarification.
+7. **Project status:** Save all decisions made into the file PROJECT_STATUS.md to be used by future agents.
