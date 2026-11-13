@@ -160,6 +160,7 @@ After testing, provide:
 4. **Coverage gaps:** Relevant scenarios that remain untested.
 5. **Defects:** Identified failures, reproduction steps, and expected behavior.
 6. **Limitations:** Tests that could not be executed and why.
+7. **Project status:** Save all decisions made into the file PROJECT_STATUS.md to be used by future agents.
 
 Never claim that tests passed unless they were actually executed.
 
